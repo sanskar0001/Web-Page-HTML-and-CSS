@@ -1,0 +1,93 @@
+    body {
+        background-color: peachpuff;
+    }
+    
+    .container {
+        height: 650px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .headercontainer {
+        display: flex;
+    }
+    
+    .left {
+        height: 400px;
+        width: 600px;
+    }
+    
+    .boldText {
+        font-weight: bolder;
+        width: 341px;
+        font-size: x-large;
+    }
+    
+    .inputBox {
+        width: 250px;
+        height: 30px;
+        border: 2px solid black;
+    }
+    
+    .bold {
+        display: block;
+    }
+    
+    .btn {
+        background-color: black;
+        color: white;
+        height: 30px;
+        width: 150px;
+        border-radius: 5px;
+        margin: 36px;
+    }
+    
+    .right {
+        display: flex;
+        height: 400px;
+        width: 400px;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .imgClass {
+        height: 300px;
+    }
+    
+    .white {
+        color: white;
+    }
+    
+    .footercontainer {
+        display: flex;
+    }
+    
+    .lbox {
+        background-color: black;
+        color: white;
+        width: 600px;
+        height: 200px;
+        width: 600px;
+    }
+    
+    .list1 {
+        list-style: none;
+    }
+    
+    .rbox {
+        background-color: black;
+        color: white;
+        width: 400px;
+        height: 200px;
+    }
+    
+    .list2 {
+        display: flex;
+        flex-direction: column;
+        justify-content: end;
+        align-items: end;
+        list-style-type: none;
+        margin-right: 116px;
+    }
